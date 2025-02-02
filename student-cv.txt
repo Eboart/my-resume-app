@@ -34,7 +34,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Emmanuel Ebo Arthur</h1>
+            <h1>Emmanuel Arthur</h1>
             <p>DevOps Engineer | Data analytics</p>
             <p>Email: eboarthur24@gmail.com | Phone: (042) 456-7890</p>
         </header>
